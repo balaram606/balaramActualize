@@ -1,0 +1,15 @@
+.main{
+  background-color: aliceblue;
+}
+
+.fileinput{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: aliceblue;
+}
+
+.fileinput input[type = file]{
+  font-weight: bold;
+}
